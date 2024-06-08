@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:', ha
     logging.StreamHandler()
 ])
 
-project_name = "ChickenCNNClassification"
+project_name = "cnnClassifier"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
