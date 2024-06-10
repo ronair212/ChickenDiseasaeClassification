@@ -59,5 +59,7 @@ The annotated dataset of poultry disease diagnostics for small to medium-scale p
     python app.py    
     ```
 
-5. **
+5. **Access the Application** 
+    Open your local host and port to access the application.
+
 
